@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic-Tac_Toe</string>
+    <string name="welcome">Welcome to Tic_Tac_Toe_game</string>
+    <string name="Playername">Player name</string>
+    <string name="Player1">Player1</string>
+    <string name="Player2">Player2</string>
+    <string name="StartGame">Start Game</string>
+
+
+</resources>
